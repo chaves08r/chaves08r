@@ -1,28 +1,35 @@
-## Conecte-se comigo: 
+<h1 align="center">👋 Olá! Eu sou a Jardi</h1>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0075B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jardielen-chaves-8363571b2/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white0)](https://github.com/chaves08r)
+<p align="center">
+Analista de Dados entusiasmada com tecnologia, inovação e aplicação de boas práticas para transformar dados em insights estratégicos.
+</p>
 
+---
 
-
-
-## Habilidades
-
-![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chaves08r&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=chaves08r&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=chaves08r&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+### 🚀 Minhas Stacks
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"/></code>
+<code><img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" title="PowerBi"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg" title="SQL"/></code>
+<code><img width="40px" src="https://lobehub.com/icons/n8n" title="N8N"/></code>
+<code><img width="40px" src="https://www.salesforce.com/content/dam/web/en_us/www/images/products/tableau/logo-tableau.png" title="Tableau"/></code>
+<code><img width="40px" src="https://www.streamlinehq.com/icons/tag/looker-studio/looker-studio-1.svg" title="Looker Studio"/></code>
+<code><img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Microsoft_Excel_2013_logo_%28light%29.svg" title="Excel"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub"/></code>
 
 
+---
 
-## Minhas Contribuições
+### 📊 Estatísticas do GitHub
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=chaves08r&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RyanViniciusS&show_icons=true&theme=transparent&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanViniciusS&layout=compact&langs_count=7&theme=transparent"/>
+</div>
+>
+
+---
+
+### 💬 Vamos conversar?
+
+Me chama no [LinkedIn](https://www.linkedin.com/in/jardielen-chaves/) ou confira meus repositórios aqui no GitHub!
