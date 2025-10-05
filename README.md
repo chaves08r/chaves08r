@@ -9,7 +9,7 @@ Analista de Dados entusiasmada com tecnologia, inovação e aplicação de boas 
 ### 🚀 Minhas Stacks
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"/></code>
 <code><img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" title="Power BI"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" title="SQLite"/></code>
+<code><img width="40px" src="https://img.icons8.com/?size=100&id=yjSayFwWHyCo&format=png&color=000000" title="SQLite"/></code>
 <code><img width="40px" src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" title="Tableau"/></code>
 <code><img width="40px" src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" title="Excel"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git"/></code>
