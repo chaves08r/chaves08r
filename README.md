@@ -9,11 +9,9 @@ Analista de Dados entusiasmada com tecnologia, inovação e aplicação de boas 
 ### 🚀 Minhas Stacks
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"/></code>
 <code><img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" title="Power BI"/></code>
-<code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg" title="SQL"/></code>
-<code><img width="40px" src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/logo.svg" title="n8n"/></code>
-<code><img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Tableau_Logo.png" title="Tableau"/></code>
-<code><img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Google_Looker_Studio_Logo.svg" title="Looker Studio"/></code>
-<code><img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Excel_2013_logo.svg" title="Excel"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" title="SQLite"/></code>
+<code><img width="40px" src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" title="Tableau"/></code>
+<code><img width="40px" src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" title="Excel"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub"/></code>
 
