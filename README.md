@@ -7,16 +7,7 @@ Analista de Dados entusiasmada com tecnologia, inovação e aplicação de boas 
 ---
 
 ### 🚀 Minhas Stacks
-### 🚀 Minhas Stacks
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" title="PowerBi"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg" title="SQL"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/n8n/n8n-original.svg" title="N8N"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" title="Tableau"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/googleanalytics.svg" title="Looker Studio"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" title="Excel"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"/></code> <code><img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" title="PowerBi"/></code> <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg" title="SQL"/></code> <code><img width="40px" src="https://lobehub.com/icons/n8n" title="N8N"/></code> <code><img width="40px" src="https://www.salesforce.com/content/dam/web/en_us/www/images/products/tableau/logo-tableau.png" title="Tableau"/></code> <code><img width="40px" src="https://www.streamlinehq.com/icons/tag/looker-studio/looker-studio-1.svg" title="Looker Studio"/></code> <code><img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Microsoft_Excel_2013_logo_%28light%29.svg" title="Excel"/></code> <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git"/></code> <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub"/></code>
 
 
 
